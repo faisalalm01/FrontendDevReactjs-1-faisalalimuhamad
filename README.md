@@ -11,5 +11,7 @@ How to start project :
 - yarn
 - yarn dev
 
+
+[website deploy](https://frontenddev-reactjs-faisalalim.netlify.app/)
     
 
